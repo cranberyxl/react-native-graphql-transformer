@@ -16,7 +16,7 @@
     "react-native": ">=0.45.0"
   },
   "dependencies": {
-    "graphql-tag": "^2.6.0",
+    "graphql-tag": "^2.8.0",
     "semver": "^5.4.1"
   },
   "devDependencies": {
